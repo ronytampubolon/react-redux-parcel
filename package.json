@@ -19,6 +19,7 @@
     "autoprefixer": "^10.4.11",
     "eslint": "^8.23.1",
     "eslint-plugin-react": "^7.31.8",
+    "flow-bin": "^0.187.1",
     "parcel": "^2.7.0",
     "postcss": "^8.4.16",
     "process": "^0.11.10",
